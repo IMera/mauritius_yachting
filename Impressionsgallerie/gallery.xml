@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Impressionen"
+	frameColor="006666"
+	frameWidth="10"
+	thumbColumns="2"
+	indexPageName="impressionen.html"
+
+>
+  <image imageURL="images/IMG_0050.JPG"
+	thumbURL="thumbs/IMG_0050.JPG"
+	linkURL="images/IMG_0050.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0152.jpg"
+	thumbURL="thumbs/IMG_0152.jpg"
+	linkURL="images/IMG_0152.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0158.jpg"
+	thumbURL="thumbs/IMG_0158.jpg"
+	linkURL="images/IMG_0158.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0265.jpg"
+	thumbURL="thumbs/IMG_0265.jpg"
+	linkURL="images/IMG_0265.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0269.jpg"
+	thumbURL="thumbs/IMG_0269.jpg"
+	linkURL="images/IMG_0269.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0443.jpg"
+	thumbURL="thumbs/IMG_0443.jpg"
+	linkURL="images/IMG_0443.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0444.jpg"
+	thumbURL="thumbs/IMG_0444.jpg"
+	linkURL="images/IMG_0444.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7608.JPG"
+	thumbURL="thumbs/IMG_7608.JPG"
+	linkURL="images/IMG_7608.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7615.JPG"
+	thumbURL="thumbs/IMG_7615.JPG"
+	linkURL="images/IMG_7615.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7824.JPG"
+	thumbURL="thumbs/IMG_7824.JPG"
+	linkURL="images/IMG_7824.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7839.JPG"
+	thumbURL="thumbs/IMG_7839.JPG"
+	linkURL="images/IMG_7839.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7840.JPG"
+	thumbURL="thumbs/IMG_7840.JPG"
+	linkURL="images/IMG_7840.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7879.JPG"
+	thumbURL="thumbs/IMG_7879.JPG"
+	linkURL="images/IMG_7879.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7899.JPG"
+	thumbURL="thumbs/IMG_7899.JPG"
+	linkURL="images/IMG_7899.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8031.JPG"
+	thumbURL="thumbs/IMG_8031.JPG"
+	linkURL="images/IMG_8031.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8051.JPG"
+	thumbURL="thumbs/IMG_8051.JPG"
+	linkURL="images/IMG_8051.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8076.JPG"
+	thumbURL="thumbs/IMG_8076.JPG"
+	linkURL="images/IMG_8076.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8135.JPG"
+	thumbURL="thumbs/IMG_8135.JPG"
+	linkURL="images/IMG_8135.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500471.JPG"
+	thumbURL="thumbs/JD500471.JPG"
+	linkURL="images/JD500471.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500548.JPG"
+	thumbURL="thumbs/JD500548.JPG"
+	linkURL="images/JD500548.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500553.jpg"
+	thumbURL="thumbs/JD500553.jpg"
+	linkURL="images/JD500553.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500599.JPG"
+	thumbURL="thumbs/JD500599.JPG"
+	linkURL="images/JD500599.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500633.JPG"
+	thumbURL="thumbs/JD500633.JPG"
+	linkURL="images/JD500633.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500634.JPG"
+	thumbURL="thumbs/JD500634.JPG"
+	linkURL="images/JD500634.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020282.JPG"
+	thumbURL="thumbs/P1020282.JPG"
+	linkURL="images/P1020282.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020313.jpg"
+	thumbURL="thumbs/P1020313.jpg"
+	linkURL="images/P1020313.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020335.JPG"
+	thumbURL="thumbs/P1020335.JPG"
+	linkURL="images/P1020335.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020340.JPG"
+	thumbURL="thumbs/P1020340.JPG"
+	linkURL="images/P1020340.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020342.JPG"
+	thumbURL="thumbs/P1020342.JPG"
+	linkURL="images/P1020342.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020345.JPG"
+	thumbURL="thumbs/P1020345.JPG"
+	linkURL="images/P1020345.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020362.JPG"
+	thumbURL="thumbs/P1020362.JPG"
+	linkURL="images/P1020362.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020363.JPG"
+	thumbURL="thumbs/P1020363.JPG"
+	linkURL="images/P1020363.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020389.JPG"
+	thumbURL="thumbs/P1020389.JPG"
+	linkURL="images/P1020389.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020402.JPG"
+	thumbURL="thumbs/P1020402.JPG"
+	linkURL="images/P1020402.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1020405.JPG"
+	thumbURL="thumbs/P1020405.JPG"
+	linkURL="images/P1020405.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

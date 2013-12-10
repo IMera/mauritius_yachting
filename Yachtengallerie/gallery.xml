@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Unsere Yachten"
+	frameColor="006666"
+	frameWidth="10"
+	thumbColumns="2"
+	indexPageName="yachten.html"
+
+>
+  <image imageURL="images/IMG_7610.JPG"
+	thumbURL="thumbs/IMG_7610.JPG"
+	linkURL="images/IMG_7610.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7630.JPG"
+	thumbURL="thumbs/IMG_7630.JPG"
+	linkURL="images/IMG_7630.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7965.JPG"
+	thumbURL="thumbs/IMG_7965.JPG"
+	linkURL="images/IMG_7965.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7967.JPG"
+	thumbURL="thumbs/IMG_7967.JPG"
+	linkURL="images/IMG_7967.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7970.JPG"
+	thumbURL="thumbs/IMG_7970.JPG"
+	linkURL="images/IMG_7970.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7994.JPG"
+	thumbURL="thumbs/IMG_7994.JPG"
+	linkURL="images/IMG_7994.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8013.JPG"
+	thumbURL="thumbs/IMG_8013.JPG"
+	linkURL="images/IMG_8013.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8018.JPG"
+	thumbURL="thumbs/IMG_8018.JPG"
+	linkURL="images/IMG_8018.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8152.JPG"
+	thumbURL="thumbs/IMG_8152.JPG"
+	linkURL="images/IMG_8152.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8157.JPG"
+	thumbURL="thumbs/IMG_8157.JPG"
+	linkURL="images/IMG_8157.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8161.JPG"
+	thumbURL="thumbs/IMG_8161.JPG"
+	linkURL="images/IMG_8161.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8184.JPG"
+	thumbURL="thumbs/IMG_8184.JPG"
+	linkURL="images/IMG_8184.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8187.JPG"
+	thumbURL="thumbs/IMG_8187.JPG"
+	linkURL="images/IMG_8187.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8194.JPG"
+	thumbURL="thumbs/IMG_8194.JPG"
+	linkURL="images/IMG_8194.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8198.JPG"
+	thumbURL="thumbs/IMG_8198.JPG"
+	linkURL="images/IMG_8198.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8199.JPG"
+	thumbURL="thumbs/IMG_8199.JPG"
+	linkURL="images/IMG_8199.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8210.JPG"
+	thumbURL="thumbs/IMG_8210.JPG"
+	linkURL="images/IMG_8210.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/innenraum.jpg"
+	thumbURL="thumbs/innenraum.jpg"
+	linkURL="images/innenraum.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500415.jpg"
+	thumbURL="thumbs/JD500415.jpg"
+	linkURL="images/JD500415.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500416-1.jpg"
+	thumbURL="thumbs/JD500416-1.jpg"
+	linkURL="images/JD500416-1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500421.JPG"
+	thumbURL="thumbs/JD500421.JPG"
+	linkURL="images/JD500421.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500422.JPG"
+	thumbURL="thumbs/JD500422.JPG"
+	linkURL="images/JD500422.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500423.JPG"
+	thumbURL="thumbs/JD500423.JPG"
+	linkURL="images/JD500423.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500464.JPG"
+	thumbURL="thumbs/JD500464.JPG"
+	linkURL="images/JD500464.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500469.JPG"
+	thumbURL="thumbs/JD500469.JPG"
+	linkURL="images/JD500469.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JD500470.JPG"
+	thumbURL="thumbs/JD500470.JPG"
+	linkURL="images/JD500470.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/riss.jpg"
+	thumbURL="thumbs/riss.jpg"
+	linkURL="images/riss.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
