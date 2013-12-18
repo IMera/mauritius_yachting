@@ -2,7 +2,7 @@
 
 body {
 	font-family: Nyala; Arial;
-	font-size: 28px; 
+	font-size: 28px;
   padding-bottom: 20px;
   color: black;
 
@@ -11,7 +11,7 @@ body {
 .bod {
   background-image: url('../../images/IMG_0444_60.jpg');
   background-size: cover;
-  margin-top: 10px;
+  
   padding-top: 5px;
   padding-bottom: 5px;}
 
@@ -28,10 +28,13 @@ margin: 0 auto;}
 
 
 h1 {font-family: Beanie; Garamond; Arial;}
-h3 {font-family: Beanie; Garamond; Arial;}
 h2 {font-family: Beanie; Garamond; Arial;}
+h3 {font-family: Beanie; Garamond; Arial;}
+h4 {font-family: Beanie; Garamond; Arial;
+text-align: center;}
 .navbar-brand {font-family: Beanie; Garamond; Arial;
-font-size: 22px;}
+font-size: 22px;
+padding-left: 20px;}
 
 
 
@@ -49,25 +52,16 @@ font-size: 22px;}
 
 
 /* Flip around the padding for proper display in narrow viewports */
-.navbar-wrapper .container {
-  padding-left: 0;
-  padding-right: 0;
-}
-.navbar-wrapper .navbar {
-  padding-left: 15px;
-  padding-right: 15px;
-}
+
 
 .navbar {
-	background-color: rgba(0,0,0,0.5);
-  padding-left: 100px;
-  margin-left: -100px;
-  margin-right: -100px;
-}
+	background-color: rgba(0,0,0,0.8);}
 
 li.navbar {
   color: white;
 }
+.navbar-toggle {margin-right: 35px;}
+
 
 }
 .carousel {
@@ -104,22 +98,24 @@ img.img-rounded {
 	float: left;
 	padding-top: 20px;
 	padding-right: 10px;
+  padding-bottom: 5px;
 
 	margin: 0 auto;
 }
 
 .info {
-	text-align: justify;
-	margin: 50px auto;
-	padding: 20px auto;
-	max-width: 800px;
+	padding-top: 140px;
 }
 
-.row {
-	margin: 50px 0 50px 0;
-	background-color: rgba(0,0,0,0.2);
-  font-size: 22px;
+
+.container {text-align: justify;}
+
+.skippers {background-color: rgba(0,0,0,0.2);
+  font-size: 18px;
+padding: 15px 25px;
 }
+
+  
 p.lead {
   text-align: justify;
   font-size: 26px;
@@ -127,7 +123,7 @@ p.lead {
   padding-top: 25px;
   max-width: 800px;
 }
-h2.featurette-heading {
+.featurette-heading {
   text-align: center;
   padding-top: 20px;
 }
@@ -136,19 +132,19 @@ span.text-muted {
 }
 
 .table{
-  width: 350px;
   font-size: 20px;
   font-weight: bold;
 }
-.tright {margin-left: -50px;}
+
 .marked {font-weight: normal;}
 
-img.featurette-image {padding-top: 25px;
+#cheat {color: rgba(0,0,0,0);}
+
+img.fi1 {padding-top: 75px;
 padding-left: 5px;}
-img.fi2 {padding-bottom: 20px;
+img.fi2 {padding: 20px;
  }
-img.fi3{ padding-bottom: 20px;
-padding-left: 5px;}
+img.fi3 {padding-top: 35px;}
 
 a.WB {width: 200px;
   margin: 0 auto;
@@ -157,8 +153,8 @@ text-align: center;
 font-size: 24px;}
 
 .galleriecontainer {margin-top: 100px;
-  padding-top: 80px;
-height: 650px;}
+  padding-top: 140px;
+  height: 650px;}
 .gbody { background-color: #222222;
   margin-top: -100px;
 }
@@ -167,7 +163,7 @@ height: 650px;}
 display: block;
 position: relative;
 text-align: center;
-margin: 100px auto;
+margin: 140px auto;
 padding-bottom: 50px;}
 
 #thanks {margin: 250px auto;
@@ -177,22 +173,22 @@ text-align: center;}
 
 .well {opacity: 0.3}
 
-.row.featurette {
+.featurette {
   margin-right: 0;
   margin-left: 0;
+  background-color: rgba(0,0,0,0.2);
+  padding-left: 10px;
+  padding-right: 10px;
 }
+
+.cc {text-align: center;}
 
 p#kayalodge {text-align: center;}
 
 p#impressum {text-align: right;
-float: left;
-margin-left: 400px;}
-
-#logoimpressum {
-  float: right;
-  margin-right: 400px
 }
 
-#implog {text-align: center;
-margin-top: 250px;
-padding-bottom: 250px;}
+.impi { padding-top: 150px;
+  padding-bottom: 150px;
+}
+
