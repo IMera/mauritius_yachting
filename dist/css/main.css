@@ -29,7 +29,8 @@ margin: 0 auto;}
 
 h1 {font-family: Beanie; Nyala; Garamond; Arial;}
 h2 {font-family: Beanie; Nyala; Garamond; Arial;}
-h3 {font-family: Beanie; Nyala; Garamond; Arial;}
+h3 {font-family: Nyala; Garamond; Arial;
+font-size: 40px;}
 h4 {font-family: Beanie; Nyala; Garamond; Arial;
 text-align: center;}
 .navbar-brand {font-family: Beanie; Nyala; Garamond; Arial;
